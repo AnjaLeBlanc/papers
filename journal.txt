@@ -8,6 +8,8 @@ Body
 Details of what I want to say.
 
 Conclusion
+A different conclusion.
+
 
 Refrerences
 see common/references.txt file
