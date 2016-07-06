@@ -1,8 +1,8 @@
 Title "My Git course"
 
-Author "Anja Le Blanc"
+Author "Anja Le Blanc", "Someone Else"
 
-Introduction
+Introduction "How do I use git?"
 
 Body
 
