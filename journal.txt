@@ -10,9 +10,12 @@ B) The important comands
 
 Details of what I want to say.
 
+An Additional Section
+Here is a section that Tom has written. It is all about git and version control management.
+
 Conclusion
-A different conclusion.
+A different conclusion, put differently. 
 
 
-Refrerences
+References
 see common/references.txt file
