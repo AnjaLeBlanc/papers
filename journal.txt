@@ -8,8 +8,6 @@ Body
 Details of what I want to say.
 
 Conclusion
-Summery of everything.
-
 
 Refrerences
 see common/references.txt file
