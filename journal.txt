@@ -1,6 +1,7 @@
 Title "My Git course working standalown"
 
 Author "Anja Le Blanc", "Someone Else"
+and Jim!
 
 Introduction "How do I use git?"
 
