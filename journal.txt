@@ -5,8 +5,8 @@ Author "Anja Le Blanc", "Someone Else"
 Introduction "How do I use git?"
 
 Body
-A The philosophy of git
-B The important comands
+A. The philosophy of git
+B. The important comands
 
 Details of what I want to say.
 
