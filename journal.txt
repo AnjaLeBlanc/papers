@@ -8,8 +8,7 @@ Body
 Details of what I want to say.
 
 Conclusion
-A different conclusion.
-
+Summery of my work.
 
 Refrerences
 see common/references.txt file
