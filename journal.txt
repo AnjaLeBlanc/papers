@@ -13,7 +13,6 @@ Details of what I want to say.
 
 An Additional Section
 Here is a section that Tom has written. It is all about git and version control management.
-Here is some additional text in this section.
 
 Conclusion
 A different conclusion, put differently. 
