@@ -7,6 +7,7 @@ Introduction "How do I use git?"
 Body
 A The philosophy of git
 B The important comands
+C The weird and wonderful
 
 Details of what I want to say.
 
