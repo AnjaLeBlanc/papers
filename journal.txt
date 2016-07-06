@@ -5,6 +5,7 @@ Author "Anja Le Blanc", "Someone Else"
 Introduction "How do I use git?"
 
 Body
+Git philosophy:
 Details of what I want to say.
 
 Conclusion
