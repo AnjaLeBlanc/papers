@@ -4,6 +4,7 @@ Author "Anja Le Blanc", "Someone Else"
 and Jim!
 
 Introduction "How do I use git?"
+Three Blind Mice.
 
 Body
 A) The philosophy of git
