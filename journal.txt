@@ -1,4 +1,4 @@
-Title "My Git course"
+Title "My Git course working standalown"
 
 Author "Anja Le Blanc"
 
