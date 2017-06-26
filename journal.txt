@@ -10,6 +10,7 @@ B) The important comands
 C) The weired and wonderful world of git
 D) How to create a mess with git
 E) Getting out of the mess on the comand prompt
+F) Conclusions
 
 
 Details of what I want to say.
